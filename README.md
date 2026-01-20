@@ -1,7 +1,7 @@
-# README.md
-Projetos simples em Python para prática
+# Projetos simples em Python para prática
 
-Olá ! Me chamo **Igor Zanata**
+Olá ! 
+Me chamo **Igor Zanata**
 Sou estudante do 7ª Periodo de Ciênca da Computação - UNIP
 Moro em São Carlos - SP
 

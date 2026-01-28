@@ -1,5 +1,4 @@
 # Olá! Eu sou Igor Zanata
-
 Sou estudante do **7º período de Ciência da Computação – UNIP**  
  São Carlos – SP
 

@@ -1,24 +1,9 @@
-#Projeto: Sistema de Cadastro de Funcionários
-#objetivo Cadastrar funcionários, calcular pagamento e mostrar dados.
-#Regras Todo funcionário tem:
-#nome salario_base Todo funcionário tem o método:
-#calcular_pagamento()
-#Classes Classe base
-#Funcionario, Classes filha, CLT
-#PJ, Horista, Regras de cálculo
-#CLT → salário fixo
-#PJ → salário - 10% de imposto
-#Horista → horas × valor hora
-#Funcionalidades
-#Cadastrar funcionário
-#Listar funcionários
-#Calcular pagamento
-#Usar herança e polimorfismo
+#Projeto simples, utilizando POO, Tratamento de exceção e manipulação de lista com menu interativo
 
 from abc import ABC, abstractmethod
 
 
-# ===== CLASSES =====
+
 class Funcionario(ABC):
     def __init__(self, nome):
         self.nome = nome
@@ -152,4 +137,5 @@ while True:
 
     else:
         print("Opção inválida.")
+
 

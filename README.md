@@ -10,22 +10,20 @@ Consegui sair do basico em **Python**.
 
 **Conhecimentos que ja domino** 
 
-Variaveis e tipos de dados
-Entrada e saida de dados
-Operadores Basicos
-Condições
-Laços de repetição
-Listas
-Dicionarios
-Funções
-Tratamento de Exceções
+#Variaveis e tipos de dados
+#Entrada e saida de dados
+#Operadores Basicos
+#Condições
+#Laços de repetição
+#Listas e Dicionarios
+#Funções
+#Tratamento de Exceções
 
 Programação Orientada a Objetos (POO)
-    Criação de Classes
-    Atibrutos e Metodos
-    Encapsulamento
-    Polimorfismo
-    Abstração
+    #Criação de Classe
+    #Encapsulamento
+    #Polimorfismo
+    #Abstração
 
 Meu foco atual é criar conexão ao GitHub e progredir aos poucos :) 
 

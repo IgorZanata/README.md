@@ -4,7 +4,7 @@ Sou estudante do **7º período de Ciência da Computação – UNIP**
  São Carlos – SP
 
 Criei este repositório para fazer parte da minha **jornada em Programação**.  
-Já consegui sair do **básico em Python** e sigo evoluindo aos poucos 
+   Já consegui sair do **básico em Python** e sigo evoluindo aos poucos 
 
 ---
 

@@ -1,33 +1,32 @@
-# Projetos simples em Python para prática
+# Olá! Eu sou Igor Zanata
 
-Olá ! 
-Me chamo **Igor Zanata**
-Sou estudante do 7ª Periodo de Ciênca da Computação - UNIP
-Moro em São Carlos - SP
+Sou estudante do **7º período de Ciência da Computação – UNIP**  
+ São Carlos – SP
 
-Criei esse repositório para fazer parte da minha jornada em **Programação**. 
-Consegui sair do basico em **Python**.
+Criei este repositório para fazer parte da minha **jornada em Programação**.  
+Já consegui sair do **básico em Python** e sigo evoluindo aos poucos 🚀
 
-**Conhecimentos que ja domino** 
+---
 
-#Variaveis e tipos de dados
-#Entrada e saida de dados
-#Operadores Basicos
-#Condições
-#Laços de repetição
-#Listas e Dicionarios
-#Funções
-#Tratamento de Exceções
+## Conhecimentos que já domino
 
-Programação Orientada a Objetos (POO)
-    #Criação de Classe
-    #Encapsulamento
-    #Polimorfismo
-    #Abstração
+###  Python
+- Variáveis e tipos de dados  
+- Entrada e saída de dados  
+- Operadores básicos  
+- Condições  
+- Laços de repetição  
+- Listas e dicionários  
+- Funções  
+- Tratamento de exceções  
 
-Meu foco atual é criar conexão ao GitHub e progredir aos poucos :) 
+###  Programação Orientada a Objetos (POO)
+- Criação de classes  
+- Encapsulamento  
+- Polimorfismo  
+- Abstração  
 
-OBS... Sou novo nessa área, então todo tipo de compatilhamento é BEM VINDO !!
+
 
 
 
